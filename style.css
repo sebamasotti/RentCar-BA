@@ -1,0 +1,87 @@
+html {
+    box-sizing: border-box;
+    }
+  *, *:before, *:after {
+    box-sizing: inherit;
+    }
+
+/* Fuentes */
+
+h1 {
+    text-align: center;
+    margin: 1rem;
+    padding: 1rem;
+}
+h2 {
+    text-align: center;
+    margin: 1rem;
+    padding: 1rem;
+}
+h3 {
+    margin: 2rem;
+    padding: 2rem;
+}
+
+/*Body*/
+
+.carousel-inner {
+    padding: 4rem;
+}
+.menu {
+    display: flex;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+img {
+    width: 80%;
+    height: 80%;
+    border-color: black;
+    border-radius: 5rem;
+}
+.imgNosotros {
+    padding: 2rem;
+    width: 100%;
+}
+
+.list-group {
+    margin: 1rem;
+    padding: 1rem;
+}
+figure {
+    margin: 2rem;
+    padding: 2rem;   
+}
+.progreso {
+    margin: 2rem;
+    padding: 2rem;
+    height: 25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+/*Cards y Divs de los automoviles*/
+
+#cardExplicativo {
+    margin: 4rem;
+    padding: 1rem;
+}
+
+#autoCard {
+    text-align: center;
+}
+#divReservar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 4rem;
+}
+
+/*Footer*/
+
+.footerCar {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}

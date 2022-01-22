@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Audi",
+    "modelos": "A3",
+    "valor": "$10000",
+    "img": "Audi_A3_8Y_IMG_3465.jpeg"
+  },
+  {
+    "id": 2,
+    "nombre": "Chevrolet",
+    "modelos": "Tracker",
+    "valor": "$3000",
+    "img": "tracker.jpeg"
+  },
+  {
+    "id": 3,
+    "nombre": "Citroen",
+    "modelos": "C5",
+    "valor": "$4000",
+    "img": "citroenc5.jpeg"
+  },
+  {
+    "id": 4,
+    "nombre": "Ford",
+    "modelos": "Focus",
+    "valor": "$5000",
+    "img": "ford-focus.jpeg"
+  },
+  {
+    "id": 5,
+    "nombre": "Toyota",
+    "modelos": "Corolla",
+    "valor": "$9000",
+    "img": "corolla.jpeg"
+  },
+  {
+    "id": 6,
+    "nombre": "Peugeot",
+    "modelos": "208",
+    "valor": "$8000",
+    "img": "peugeot208.jpeg"
+  }
+]
